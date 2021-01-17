@@ -1,7 +1,7 @@
 # GNNPractice
 Practice of Graph Neural Network using DGL
 
-
+<h3>Simple Node Classification</h3>
 
 Before Training           |  After Trainining
 :-------------------------:|:-------------------------:
