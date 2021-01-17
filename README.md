@@ -22,5 +22,7 @@ Before Training           |  After Trainining
 <img align='center' src="https://github.com/AvisP/GNNPractice/blob/main/Images/Graph_Classification.png" width="575" height="560" title="Graph Classification">
 
 <h3>Relational GCN </h3>
+
 [Example1](https://github.com/AvisP/GNNPractice/blob/main/DGL/Tutorial%205%20HeteroGraph.ipynb)
+
 [Example2](https://github.com/AvisP/GNNPractice/blob/main/DGL/HeteroGraphExample.py)
