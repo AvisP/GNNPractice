@@ -5,6 +5,7 @@ Practice of Graph Neural Network using DGL
 
 Before Training           |  After Trainining
 :-------------------------:|:-------------------------:
-![KC_Club_before](https://github.com/AvisP/GNNPractice/blob/main/Images/KarateClub_Diagram1.png) | ![KC_Club_after](https://github.com/AvisP/GNNPractice/blob/main/Images/KarateClub_AfterTraining.png= 100x20)
+<img align='center' src="https://github.com/AvisP/GNNPractice/blob/main/Images/KarateClub_Diagram1.png" title="KC_Club_before"> | <img align='center' src="https://github.com/AvisP/GNNPractice/blob/main/Images/KarateClub_AfterTraining.png" width="428" height="302" title="KC_Club_after">
+
 
 
