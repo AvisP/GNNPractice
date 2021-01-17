@@ -1,5 +1,9 @@
 # GNNPractice
-Practice of Graph Neural Network using DGL
+Practice of Graph Neural Network using DGL and PyTorch Geometric based on the examples provided 
+
+[DGl Examples](https://docs.dgl.ai/en/latest/tutorials/models/index.html)
+
+[PyTorch Geometric Examples](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html)
 
 <h3>Simple Node Classification (GCN) : Karate Club Dataset</h3>
 
