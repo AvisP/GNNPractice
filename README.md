@@ -23,3 +23,4 @@ Before Training           |  After Trainining
 
 <h3>Relational GCN </h3>
 [Example1](https://github.com/AvisP/GNNPractice/blob/main/DGL/Tutorial%205%20HeteroGraph.ipynb)
+[Example2](https://github.com/AvisP/GNNPractice/blob/main/DGL/HeteroGraphExample.py)
