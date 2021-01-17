@@ -16,5 +16,10 @@ Before Training           |  After Trainining
 
 Before Training           |  After Trainining
 :-------------------------:|:-------------------------:
-<img align='center' src="https://github.com/AvisP/GNNPractice/blob/main/Images/CiteSeerDataset.png" width="575" height="560" title="Cite Seer Dataset before training">|<img align='center' src="https://github.com/AvisP/GNNPractice/blob/main/Images/CiteSeerDataset_GATweights.png" width="575" height="560" title="Cite Seer Dataset after training">
+<img align='center' src="https://github.com/AvisP/GNNPractice/blob/main/Images/CiteSeerDataset.png" width="575" height="560" title="Cite Seer Dataset before training">|<img align='center' src="https://github.com/AvisP/GNNPractice/blob/main/Images/CiteSeerDataset_GATweights.png" width="600" height="575" title="Cite Seer Dataset after training">
 
+<h3>Graph Classification </h3>
+<img align='center' src="https://github.com/AvisP/GNNPractice/blob/main/Images/Graph_Classification.png" width="575" height="560" title="Graph Classification">
+
+<h3>Relational GCN </h3>
+[Example1](https://github.com/AvisP/GNNPractice/blob/main/DGL/Tutorial%205%20HeteroGraph.ipynb)
